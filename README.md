@@ -1,0 +1,2 @@
+# SceneLib
+Basic Pygame Wrapper
